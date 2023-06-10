@@ -1,0 +1,9 @@
+* hu.dwim.stefil
+
+Common Lisp testing framework blending into normal Slime development.
+
+|---------+--------------------------------------------------------------------------------|
+| source  | file:https://github.com/hu-dwim/hu.dwim.stefil/archive/refs/tags/stable.tar.gz |
+| version | stable                                                                         |
+| systems | hu.dwim.stefil                                                                 |
+|---------+--------------------------------------------------------------------------------|
