@@ -7,3 +7,4 @@ Common Lisp testing framework blending into normal Slime development.
 | version | stable                                                                         |
 | systems | hu.dwim.stefil                                                                 |
 |---------+--------------------------------------------------------------------------------|
+ 
